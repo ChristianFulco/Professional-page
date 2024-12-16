@@ -9,4 +9,4 @@
 <p><b>  Um projeto responsivo com efeito "parallax" de uma loja/posto VDO, com localização em frame e link's de redirecionamento. </b></p>
 <br>
 <br>
-<img />
+<img  width="1080" src="https://github.com/ChristianFulco/Professional-page/blob/main/assets/braespa-github.png?raw=true" alt="Imagem de um site na tela de um computador e também na tela de um celular"/>
